@@ -1,10 +1,5 @@
 /*
-James Vaughan
-Professor Shengli Yuan
-CS 3326 Network Security
-10 November 2014
-
-JRV_RC4.cpp
+JRV_RC4.cpp by James R. Vaughan
 
 Purposes:
 Implement both encryption and decryption in RC4.
